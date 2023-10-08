@@ -31,7 +31,7 @@ It happens that the "#signin-name" selector is not found, but this is rare (when
 
 # Ua
 
-Автолайк бот для знайомсв на Badoo. Для работи потрібно створити та заповнити `config.env`
+Автолайк бот для знайомств на Badoo. Для работи потрібно створити та заповнити `config.env`
 
 ```sh
 LOGIN=YOUR_LOGIN
