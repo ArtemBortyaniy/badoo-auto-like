@@ -1,0 +1,23 @@
+{
+  "name": "badoo-auto-like",
+  "version": "1.0.0",
+  "description": "Autolike bot for the dating site Badoo. To work you need to fill out `config.env`",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^21.3.8"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtemBortyaniy/badoo-auto-like"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemBortyaniy/badoo-auto-like"
+  },
+  "homepage": "https://github.com/ArtemBortyaniy/badoo-auto-like"
+}
